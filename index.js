@@ -1,3 +1,6 @@
+//Today I learned how to run .js file just open TERMINAL an run ->
+// cmd - node index.js 
+
 var readlineSync = require('readline-sync');
 var score = 0;
 
